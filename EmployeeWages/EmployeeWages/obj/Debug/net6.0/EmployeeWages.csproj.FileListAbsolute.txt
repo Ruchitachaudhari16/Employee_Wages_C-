@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\EmployeeWages\EmployeeWages\bin\Debug\net6.0\EmployeeWages.exe
+C:\Users\hp\source\repos\EmployeeWages\EmployeeWages\bin\Debug\net6.0\EmployeeWages.deps.json
+C:\Users\hp\source\repos\EmployeeWages\EmployeeWages\bin\Debug\net6.0\EmployeeWages.runtimeconfig.json
+C:\Users\hp\source\repos\EmployeeWages\EmployeeWages\bin\Debug\net6.0\EmployeeWages.dll
+C:\Users\hp\source\repos\EmployeeWages\EmployeeWages\bin\Debug\net6.0\EmployeeWages.pdb
+C:\Users\hp\source\repos\EmployeeWages\EmployeeWages\obj\Debug\net6.0\EmployeeWages.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\EmployeeWages\EmployeeWages\obj\Debug\net6.0\EmployeeWages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\EmployeeWages\EmployeeWages\obj\Debug\net6.0\EmployeeWages.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\EmployeeWages\EmployeeWages\obj\Debug\net6.0\EmployeeWages.AssemblyInfo.cs
+C:\Users\hp\source\repos\EmployeeWages\EmployeeWages\obj\Debug\net6.0\EmployeeWages.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\EmployeeWages\EmployeeWages\obj\Debug\net6.0\EmployeeWages.dll
+C:\Users\hp\source\repos\EmployeeWages\EmployeeWages\obj\Debug\net6.0\refint\EmployeeWages.dll
+C:\Users\hp\source\repos\EmployeeWages\EmployeeWages\obj\Debug\net6.0\EmployeeWages.pdb
+C:\Users\hp\source\repos\EmployeeWages\EmployeeWages\obj\Debug\net6.0\EmployeeWages.genruntimeconfig.cache
+C:\Users\hp\source\repos\EmployeeWages\EmployeeWages\obj\Debug\net6.0\ref\EmployeeWages.dll
